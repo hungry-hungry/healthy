@@ -1,0 +1,35 @@
+.main-2 {
+    height: 800px;
+}
+
+.common-title h2 {
+    color: black;
+    padding: 20px;
+    margin: 60px;
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+}
+
+
+
+
+.box1 {
+    float: right;
+    /* margin-right: 80px; */
+    width: 45%;
+    margin-right: 5%;
+}
+
+.box2 {
+  width: 45%;
+  margin-left: 5%;
+}
+
+.contents-item2 {
+  text-align: center;
+}
+
+.contents-item2 p {
+  font-size: 35px;
+  margin-top: 85px;
+}
