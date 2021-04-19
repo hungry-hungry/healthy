@@ -1,0 +1,76 @@
+.common-title2 h2 {
+    color: black;
+    padding: 20px;
+    margin: 60px;
+    border-bottom: 4px solid gold;
+    font-size: 28px;
+  }
+  
+  
+  
+.main-3 {
+    height: 1800px;
+  }
+  
+.box1-1 {
+    float: right;
+    /* margin-right: 60px; */
+    /* margin-top: 40px; */
+    width: 45%;
+    margin-right: 5%;
+  }
+  
+.box1-1 iframe {
+    height: 350px;
+  }
+  
+.box2-2 {
+    /* margin-left: 60px; */
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+ }
+
+.box2-2 ul {
+    font-size: 22px;
+ }
+
+.box2-2 h3 {
+    text-align: left;
+    font-size: 21px;
+ }
+
+.contents-item3 {
+    width: 100%;
+  }
+
+  .access {
+    text-align: center;
+  }
+
+  .box-top {
+      height: 50%;
+  }
+
+.pages {
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+ }
+
+.pages ul {
+    display: inline;
+    font-size: 25px;
+ }
+
+.chapter {
+      height: 40px;
+      text-align: right;
+      padding: 10px;
+ }
+
+ .chapter  li {
+     padding: 10px;
+     display: inline;
+     color: black;
+ }
