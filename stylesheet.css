@@ -1,5 +1,6 @@
 body {
     font-family: "Avenir Next";
+    margin: auto;
 }
 
 li {
@@ -16,6 +17,7 @@ li {
     font-size: 36px;
     float: left;
     padding: 20px 40px;
+    color: white;
 }
 
 .header-list li {
@@ -28,7 +30,7 @@ li {
   }
 
   .copy-container {
-    text-align:center
+    text-align: center
   }
 
   .copy-container h1 {
@@ -69,7 +71,7 @@ li {
       width: 400px;
       margin-top: 10px;
       margin-bottom: 30px;
-      padding: 20;
+      padding: 20px;
       font-size: 18px;
       border: 2px solid #dee7ec;
   }
@@ -80,7 +82,8 @@ li {
   }
 
   .footer {
-    background-color: #2f5167;
+    /* background-color: #2f5167; */
+    background-color: #788c97;
     height: 60px;
     color: #fff;
     padding: 40px;
@@ -97,18 +100,4 @@ li {
 
   .footer-list li {
     padding-bottom: 20px;
-  }
-
-  
-  
-  .main-2 {
-      height: 800px;
-  }
-
-  .common-title h2 {
-      text-align: center;
-      background-color: blue;
-      color: white;
-      padding: 20px;
-    margin: 30px;
   }
